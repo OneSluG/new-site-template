@@ -1,3 +1,5 @@
+@use "config" as *;
+
 .visually-hidden {
 	@include visually-hidden;
 }
